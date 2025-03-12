@@ -1,0 +1,28 @@
+/* 
+
+Topography is the way that text 
+is arranged and arranged 
+
+*/
+
+/*
+ modzilla developer network
+ */
+body{
+    padding: 10%;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* input, button{
+    font: inherit;
+} */
+
+p{
+    text-decoration: none;
+    text-transform: none;
+    text-align: none;
+    text-indent: none;
+    line-height: 1.5;
+    
+}
